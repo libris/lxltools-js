@@ -1,3 +1,7 @@
+# 🔥 THIS REPOSITORY HAS MOVED 🔥
+
+Now exists as package in https://github.com/libris/lxlviewer/
+
 # lxltools-js
 JavaScript tools for the Libris XL infrastructure.
 
